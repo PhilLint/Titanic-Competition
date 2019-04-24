@@ -1,8 +1,8 @@
-```html
 
 # Titanic-Competition-R
 First Submission to Kaggle Competition. 
-<!DOCTYPE html>
+```html
+<h2> <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
@@ -937,6 +937,7 @@ $(document).ready(function () {
 
 </body>
 </html>
+<h2>
 <pre>
     <div class="container">
         <div class="block two first">
